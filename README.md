@@ -1,10 +1,10 @@
-### Hi there, I'm Dilnoza 👋  
-I'm a Software Engineering student at IT Park University, passionate about learning new technologies and building creative, useful software solutions.
-
+### I’m Dilnoza, still learning but already creating 🌱
+A Software Engineering student at IT Park University on a journey to grow, build cool projects, and keep getting better every day.
+<!--
 - 🌱 I’m currently learning **Python**, **Django**, and **REST APIs**  
 - 💡 I’m working on improving my backend development skills  
 - 🎯 My goal is to become a **professional Django developer**
-
+-->
 ### 🛠 Tech Stack
 - Languages: Python, Java, HTML, CSS, C
 - Frameworks: Django
