@@ -9,7 +9,7 @@ A Software Engineering student at IT Park University on a journey to grow, build
 - Languages: Python, Java, HTML, CSS, C
 - Frameworks: Django
 - Tools: Git, GitHub, PyCharm
-- Databases: SQLite, PostgreSQL (learning)
+- Databases: PostgreSQL
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dilnoza-kholisova-751966242/)
