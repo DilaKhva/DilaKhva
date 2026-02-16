@@ -6,7 +6,7 @@ A Software Engineering student at IT Park University on a journey to grow, build
 - 🎯 My goal is to become a **professional Django developer**
 -->
 ### 🛠 Tech Stack
-- Languages: Python, Java, HTML, CSS, C
+- Languages: Python, Java, C
 - Frameworks: Django
 - Tools: Git, GitHub, PyCharm
 - Databases: PostgreSQL
