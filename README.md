@@ -13,7 +13,7 @@ A Software Engineering student at IT Park University on a journey to grow, build
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/dilnoza-kholisova-751966242/)
-- [Email](mailto:dilnozakhva@gmail.com)
+- [Email](mailto:dilnozakholisova@gmail.com)
 
 
 ### 🎮 Fun fact
